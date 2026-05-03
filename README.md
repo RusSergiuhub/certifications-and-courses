@@ -6,11 +6,12 @@ This repository contains selected certifications and completed courses related t
 - Microsoft Learn – Data Engineering Fundamentals - In Progress
 
 ## IBM
-- Introduction to Data Engineering
-- Python for Data Science, AI & Development
-
+- Introduction to Data Engineering - Completed
+- Python for Data Science, AI & Development - Completed
+- Python Project for Data Engineering - Completed
+- 
 ## Bitnet
-- Machine Learning Course
+- Machine Learning Course - Completed
 
 ## Focus Areas
 - Data Engineering
