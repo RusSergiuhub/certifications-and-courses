@@ -9,7 +9,7 @@ This repository contains selected certifications and completed courses related t
 - Introduction to Data Engineering - Completed
 - Python for Data Science, AI & Development - Completed
 - Python Project for Data Engineering - Completed
-- 
+  
 ## Bitnet
 - Machine Learning Course - Completed
 
