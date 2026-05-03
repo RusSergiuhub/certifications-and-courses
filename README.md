@@ -3,7 +3,7 @@
 This repository contains selected certifications and completed courses related to data engineering, cloud technologies, Python, SQL, and machine learning.
 
 ## Microsoft
-- Microsoft Learn – Data Engineering Fundamentals
+- Microsoft Learn – Data Engineering Fundamentals - In Progress
 
 ## IBM
 - Introduction to Data Engineering
