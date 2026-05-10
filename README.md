@@ -9,7 +9,7 @@ This repository contains selected certifications and completed courses related t
 - Introduction to Data Engineering - Completed
 - Python for Data Science, AI & Development - Completed
 - Python Project for Data Engineering - Completed
-- Introduction to Relational Databases(RDBMS) - In Progress
+- Introduction to Relational Databases(RDBMS) - Completed
 - Databases and SQL for Data Science with Python - In Progress
   
 ## Bittnet
